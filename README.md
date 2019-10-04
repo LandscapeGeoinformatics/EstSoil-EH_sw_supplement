@@ -1,5 +1,7 @@
 # EstSoil-EH_sw_supplement
 
+[![DOI](https://zenodo.org/badge/212613251.svg)](https://zenodo.org/badge/latestdoi/212613251)
+
 Supplementary Jupyter notebooks, external scripts, and GIS application usages and codes
 
 
