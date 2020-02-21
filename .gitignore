@@ -105,3 +105,4 @@ venv.bak/
 
 # only the zip
 Rosetta-3.0/
+.Rproj.user
