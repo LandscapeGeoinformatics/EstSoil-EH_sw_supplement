@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/212613251.svg)](https://zenodo.org/badge/latestdoi/212613251)
 
+For more information on the development of this dataset look for "EstSoil-EH: a high-resolution eco-hydrological modelling parameters dataset for Estonia", Alexander Kmoch, Arno Kanal†, Alar Astover, Ain Kull, Holger Virro, Aveliina Helm, Meelis Pärtel, Ivika Ostonen and Evelyn Uuemaa, 2021, Earth Syst. Sci. Data, 13, 83–97, [https://doi.org/10.5194/essd-13-83-2021](https://doi.org/10.5194/essd-13-83-2021)
+
 Supplementary Jupyter notebooks, external scripts, and GIS application usages and codes
 
 
